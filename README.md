@@ -48,8 +48,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 BootStrap Project <a name="about-project"></a>
 
 
-**Mobile** is simply a HTML & CSS based project that develops our understanding with professional portfolio. This also include many configuration
-settings to keep my code clean.
+**BotStrap** is simply a HTML & CSS based project that we experienced the power of using a CSS framework like Bootstrap to create a new website quickly from scratch.
 
 ## 🛠 Built With <a name="built-with"></a>
 
