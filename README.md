@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello-Wolrd ](#-hello-wolrd-)
+- [📖 BootStrape ](#-Boot-Strap)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -45,7 +45,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Javed Portfolio <a name="about-project"></a>
+# 📖 BootStrap Project <a name="about-project"></a>
 
 > This is my Poerfolio project from Microverse and its the first step to have our own portfolio.
 
@@ -101,7 +101,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd portfolio-folder
+  cd Bootstrap-folder
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
@@ -114,7 +114,7 @@ Install this project with:
 Example command:
 
 ```sh
-  cd Hello-project
+  cd Bootstrap-project
   gem install
 ```
 --->
@@ -166,6 +166,13 @@ Example:
 -   GitHub: [https://github.com/Javed-Shahbaz)
 -   Twitter: [https://twitter.com/javedshahbaz007)
 -   LinkedIn: [https://www.linkedin.com/in/javed-shahbaz)
+
+**Alejandro Maggioni**
+
+- GitHub: [@githubhandle](https://github.com/alex1779/)
+- Twitter: [@twitterhandle](https://twitter.com/alex1779)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-maggioni-086678b5/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
