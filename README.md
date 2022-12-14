@@ -47,7 +47,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 BootStrap Project <a name="about-project"></a>
 
-> This is my Poerfolio project from Microverse and its the first step to have our own portfolio.
 
 **Mobile** is simply a HTML & CSS based project that develops our understanding with professional portfolio. This also include many configuration
 settings to keep my code clean.
@@ -56,7 +55,7 @@ settings to keep my code clean.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> This projet used for only
+
 
 <details>
   <summary>Client</summary>
@@ -80,7 +79,6 @@ settings to keep my code clean.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
